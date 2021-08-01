@@ -47,9 +47,9 @@ Using Django inside a Python virtual environment
   
   git clone git@github.com:vaillan/devproject.git
   
-  Note.- You need install git for use the commants git clone, or download this file on zip and extract this example of project inside (my_Django_projetcs)
+  Note.- You need install git for use the commands git clone, or download this file on zip and extract this example of project inside (my_Django_projetcs)
 
-5. Run in your terminal the follows commants:
+5. Run in your terminal the follows commands:
 
   * python3 manage.py makemigrations
   * python3 manage.py migrate
