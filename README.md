@@ -25,12 +25,11 @@ Using Django inside a Python virtual environment
   The terminal of this example is with linux, you need do it with the cmd of windows 
   
   $ mkvirtualenv my_django_environment
-  -------------------------------------------------------------------------------------------------
-  | Running virtualenv with interpreter /usr/bin/python3                                           |
-  | ...                                                                                            |
-  | virtualenvwrapper.user_scripts creating /home/ubuntu/.virtualenvs/t_env7/bin/get_env_details   |
-  | (my_django_environment) ubuntu@ubuntu:~$                                                       |
-  -------------------------------------------------------------------------------------------------
+ 
+  Running virtualenv with interpreter /usr/bin/python3                                           
+  ...                                                                                            
+  virtualenvwrapper.user_scripts creating /home/ubuntu/.virtualenvs/t_env7/bin/get_env_details   
+  (my_django_environment) ubuntu@ubuntu:~$                                                       
   
   Now you're inside the virtual environment you can install Django and start developing.
 
