@@ -1,7 +1,7 @@
 # devproject
 Using Django inside a Python virtual environment
 
-1.- Installing the virtual environment software
+1. Installing the virtual environment software
 
   Windows 10 virtual environment setup
     Installing virtualenvwrapper-win is even simpler than setting up virtualenvwrapper because you don't 
@@ -12,7 +12,7 @@ Using Django inside a Python virtual environment
     
     Now you can create a new virtual environment with the mkvirtualenv command.
     
-2.- Creating a virtual environment
+2. Creating a virtual environment
   Once you've installed virtualenvwrapper or virtualenvwrapper-win then working with virtual environments is
   very similar on all platforms.
   
@@ -33,7 +33,7 @@ Using Django inside a Python virtual environment
   
   Now you're inside the virtual environment you can install Django and start developing.
 
-3.- Using a virtual environment
+3. Using a virtual environment
   There are just a few other useful commands that you should know (there are more in the tool documentation, but these are the ones you'll use regularly):
     
     * deactivate — Exit out of the current Python virtual environment
@@ -43,13 +43,13 @@ Using Django inside a Python virtual environment
     
     For more information go to this link https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/development_environment
 
-4.- Create a file for exaple (my_Django_projects) where wass created the virtual environment my_django_environment and download this repository
+4. Create a file for exaple (my_Django_projects) where wass created the virtual environment my_django_environment and download this repository
   
   git clone git@github.com:vaillan/devproject.git
   
   Note.- You need install git for use the commants git clone, or download this file on zip and extract this example of project inside (my_Django_projetcs)
 
-6.- Run in your terminal the follows commants:
+6. Run in your terminal the follows commants:
 
   * python3 manage.py makemigrations
   * python3 manage.py migrate
