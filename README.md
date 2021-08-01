@@ -51,9 +51,9 @@ Using Django inside a Python virtual environment
 
 6.- Run in your terminal the follows commants:
 
-  python3 manage.py makemigrations
-  python3 manage.py migrate
-  python3 manage.py createsuperuser # Create a superuser
-  python3 manage.py runserver
+  * python3 manage.py makemigrations
+  * python3 manage.py migrate
+  * python3 manage.py createsuperuser # Create a superuser
+  * python3 manage.py runserver
   
 7.- Open a browser to http://127.0.0.1:8000/admin/ to open the admin site
