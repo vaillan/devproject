@@ -56,4 +56,4 @@ Using Django inside a Python virtual environment
   * python3 manage.py createsuperuser # Create a superuser
   * python3 manage.py runserver
   
-6.- Open a browser to http://127.0.0.1:8000/admin/ to open the admin site
+6.- Open a browser to http://127.0.0.1:8000 to open the admin site
