@@ -50,6 +50,7 @@ Using Django inside a Python virtual environment
   Note.- You need install git for use the commants git clone, or download this file on zip and extract this example of project inside (my_Django_projetcs)
 
 6.- Run in your terminal the follows commants:
+
   python3 manage.py makemigrations
   python3 manage.py migrate
   python3 manage.py createsuperuser # Create a superuser
