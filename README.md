@@ -45,7 +45,7 @@ Using Django inside a Python virtual environment
 
 4. Create a file for exaple (my_Django_projects) where wass created the virtual environment my_django_environment and download this repository
   
-  git clone git@github.com:vaillan/devproject.git
+  git clone https://github.com/vaillan/devproject.git
   
   Note.- You need install git for use the commands git clone, or download this file on zip and extract this example of project inside (my_Django_projetcs)
 
